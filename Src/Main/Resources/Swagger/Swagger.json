@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "name": "Laptop", "quantity": 1 },
+    { "name": "Mouse", "quantity": 2 }
+  ]
+}
